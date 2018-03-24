@@ -14,7 +14,7 @@
 	"setting.mat_motion_blur_enabled"		"0"
 	"setting.gpu_mem_level"		"2"
 	"setting.gpu_level"		"3"
-	"setting.mat_antialias"		"4"
+	"setting.mat_antialias"		"8"
 	"setting.mat_aaquality"		"0"
 	"setting.cpu_level"		"2"
 	"setting.videoconfig_version"		"1"
@@ -23,3 +23,4 @@
 	"setting.defaultresheight"		"1440"
 	"setting.mat_forceaniso"		"16"
 }
+
