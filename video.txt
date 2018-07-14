@@ -16,11 +16,10 @@
 	"setting.gpu_level"		"3"
 	"setting.mat_antialias"		"8"
 	"setting.mat_aaquality"		"0"
+	"setting.mat_forceaniso"		"16"
 	"setting.cpu_level"		"2"
 	"setting.videoconfig_version"		"1"
 	"setting.mem_level"		"2"
 	"setting.defaultres"		"2560"
 	"setting.defaultresheight"		"1440"
-	"setting.mat_forceaniso"		"16"
 }
-
